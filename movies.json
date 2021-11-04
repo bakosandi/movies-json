@@ -1,0 +1,39 @@
+[
+    {
+        "title":"The Big Short",
+        "length":130,
+        "isKidFriendly":false,
+        "protagonist": {
+            "actorName":"Christian Bale",
+            "characterName":"Michael Burry"
+        },
+        "antagonist": {
+            "actorName":"Rudy Eisenzopf ",
+            "characterName":"Lewis Ranieri"
+        }
+    },
+    {
+        "title":"Margin Call",
+        "length":107,
+        "isKidFriendly":true,
+        "protagonist": {
+            "actorName":"Kevin Spacey",
+            "characterName":"Sam Rogers"
+        },
+        "antagonist":"Al Sapienza",
+        "characterName":"Louis Carmelo"
+    },
+    {
+        "title":"Fracture",
+        "length":113,
+        "isKidFriendly":false,
+        "protagonist": {
+            "actorName":"Ryan Gosling",
+            "characterName":"Willy Beachum"
+        },
+        "antagonist": {
+            "actorName":"Anthony Hopkins",
+            "characterName":"Ted Crawford"
+        }
+    }
+]
